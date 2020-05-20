@@ -3,6 +3,8 @@
 ## Setup
 Project is using Vue CLI
 
+Sketch file is in root folder
+
 ## Project setup
 ```
 npm install
@@ -32,4 +34,17 @@ https://growrk-frontend.web.app/
 ## Screenshots
 
 iPhone 5
-[iPhone 5](https://github.com/loama/growrk-frontend/raw/master/screenshots/iPhone-SE.png "screenshot")
+
+![iPhone 5](https://github.com/loama/growrk-frontend/raw/master/screenshots/iPhone-SE.png "iPhone 5")
+
+iPhone XS Pro Max
+
+![iPhone XS Pro](https://github.com/loama/growrk-frontend/raw/master/screenshots/iPhone-11-Pro-Max.png "iPhone XS Pro Max")
+
+iPad 7.9
+
+![iPhone 7.9](https://github.com/loama/growrk-frontend/raw/master/screenshots/7.9-iPad-mini.png "iPad mini")
+
+iPad 12.9
+
+![iPad 12.9](https://github.com/loama/growrk-frontend/raw/master/screenshots/12.9-iPad-Pro.png "iPad Pro")
