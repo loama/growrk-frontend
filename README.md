@@ -1,4 +1,7 @@
-# growrk-frontend
+# Growrk FrontEnd Test
+
+## Setup
+Project is using Vue CLI
 
 ## Project setup
 ```
@@ -6,29 +9,22 @@ npm install
 ```
 
 ### Compiles and hot-reloads for development
-```
-npm run serve
-```
+`npm run serve`
 
 ### Compiles and minifies for production
-```
-npm run build
-```
+`npm run build`
 
 ### Run your unit tests
-```
-npm run test:unit
-```
+`npm run test:unit`
 
 ### Run your end-to-end tests
-```
-npm run test:e2e
-```
+`npm run test:e2e`
 
 ### Lints and fixes files
-```
-npm run lint
-```
+`npm run lint`
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Deploy to firebase hosting
+`firebase deploy`
+
+### Check it live
+https://growrk-frontend.web.app/

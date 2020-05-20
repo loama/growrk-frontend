@@ -107,6 +107,7 @@ export default {
   text-align: center
 
   h2
+    font-family: 'HomepageBaukasten-Bold'
     font-size: 27px
     letter-spacing: 0.06
     margin: 35px 0 10px
@@ -135,6 +136,7 @@ export default {
         border-radius: 50%
         height: 21px
         left: 24px
+        pointer-events: none
         position: absolute
         top: 3px
         transform: translate3d(0, 0, 0)
@@ -156,33 +158,37 @@ export default {
       background: var(--white)
       box-shadow: 0 2px 9px rgba(0, 0, 0, 0.13)
       border-radius: 8px
-      height: 387px
+      height: 321px
       margin: 18px 0
+      padding: 33px 0
       position: relative
       vertical-align: top
       width: 300px
+      z-index: 1
 
       &.purple
         background: var(--gradient)
         box-shadow: 0 2px 9px rgba(161, 165, 239, 0.13)
         color: var(--white)
-        height: 423px
+        height: 357px
         margin: 0
-        z-index: 1
+        z-index: 2
 
         .title
-          margin-top: 52px
+          margin-top: 20px
 
         .button
           background: var(--white)
           color: #8185E5
 
       .title
+        font-family: 'HomepageBaukasten-Bold'
         font-size: 15px
         letter-spacing: 0.04
-        margin: 33px 0 24px
+        margin: 0 0 24px
 
       .price
+        font-family: 'HomepageBaukasten-Bold'
         line-height: 60px
         margin-bottom: 24px
 
@@ -214,9 +220,11 @@ export default {
         border-radius: 4px
         color: var(--white)
         cursor: pointer
+        font-size: 12px
         height: 33px
         line-height: 33px
         margin: 38px 24px 0 24px
+        text-transform: uppercase
         width: calc(100% - 48px)
 
 @media (min-width: 1024px)
