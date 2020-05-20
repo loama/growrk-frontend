@@ -32,4 +32,4 @@ https://growrk-frontend.web.app/
 ## Screenshots
 
 iPhone 5
-[iPhone 5](https://github.com/loama/growrk-frontend/Screenshots/iPhone-SE.png)
+[iPhone 5](https://github.com/loama/growrk-frontend/raw/master/screenshots/iPhone-SE.png "screenshot")
